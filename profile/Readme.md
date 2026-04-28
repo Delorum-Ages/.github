@@ -26,4 +26,4 @@
 >
 > ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Delorum-Ages/.github/main?path=profile/Readme.md&display_timestamp=committer&logo=github&logoColor=white&logoSize=auto&label=Дата%20последнего%20внесения%20изменений&labelColor=informational>)
 - - -
-![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Delorum%20Ages-orange?labelColor=white> "Правообладатель")
+![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-CG%20Team-white?labelColor=important> "Правообладатель")
