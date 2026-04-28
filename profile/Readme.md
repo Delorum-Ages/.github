@@ -12,7 +12,7 @@
 - **Delorum Ages**: *War of Changes*;
 - **Delorum Ages**: *Politicum*.
 - - -
-# Лицензиця&nbsp;LGPL-2.1
+# Лицензиця&nbsp;MIT
 > [!IMPORTANT]
 > **Правообладатель**: ***CG Team***.
 
