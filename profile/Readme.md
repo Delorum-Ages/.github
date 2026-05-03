@@ -1,5 +1,5 @@
 # Описание
-![Сеть игровых серверов](<https://img.shields.io/badge/Minecraft%3A%20Bedrock%20Edition-Delorum%20Ages-orange?labelColor=informational> "Сеть игровых серверов") \
+![Сеть игровых серверов](<https://img.shields.io/badge/Minecraft%3A%20Bedrock%20Edition-Delorum%20Ages-orange?style=for-the-badge&labelColor=informational> "Сеть игровых серверов") \
 [![Discord-сервер](<https://img.shields.io/discord/1040140828787605626?style=social&logo=discord&logoSize=auto&label=Discord-сервер>)](<https://discord.gg/ZSsm6K4xTU> "Перейти к серверу&hellip;")
 
 **Delorum Ages** — **сеть серверов *видеоигры Minecraft: Bedrock Edition***.
