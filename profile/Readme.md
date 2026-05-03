@@ -1,10 +1,10 @@
 # Описание
 ![Сеть игровых серверов](<https://img.shields.io/badge/Minecraft%3A%20Bedrock%20Edition-Delorum%20Ages-orange?labelColor=informational> "Сеть игровых серверов") \
-[![Discord-сервер](<https://img.shields.io/discord/1040140828787605626?logo=discord&logoColor=white&logoSize=auto&label=Discord-сервер&labelColor=informational>)](<https://discord.gg/ZSsm6K4xTU> "Перейти к серверу&hellip;")
+[![Discord-сервер](<https://img.shields.io/discord/1040140828787605626?style=social&logo=discord&logoSize=auto&label=Discord-сервер>)](<https://discord.gg/ZSsm6K4xTU> "Перейти к серверу&hellip;")
 
 **Delorum Ages** — **сеть серверов *видеоигры Minecraft: Bedrock Edition***.
 
-![Спонсоры](<https://img.shields.io/github/sponsors/Delorum-Ages?logo=githubsponsors&logoSize=auto&label=Спонсоры&labelColor=lime>)
+![Спонсоры](<https://img.shields.io/github/sponsors/Delorum-Ages?style=social&logo=githubsponsors&logoSize=auto&label=Спонсоры&labelColor=lime>)
 ![Подписчики](<https://img.shields.io/github/followers/Delorum-Ages?label=Подписчики>)
 ![Звёзды](<https://img.shields.io/github/stars/Delorum-Ages?label=Звёзды>)
 
@@ -24,6 +24,6 @@
 > [!NOTE]
 > **Составитель *документа***: ***Изергиль Ван Дер Вельде***.
 >
-> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Delorum-Ages/.github/main?path=profile/Readme.md&display_timestamp=committer&logo=github&logoColor=white&logoSize=auto&label=Дата%20последнего%20внесения%20изменений&labelColor=informational>)
+> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Delorum-Ages/.github/main?path=profile/Readme.md&display_timestamp=committer&logo=github&logoSize=auto&label=Дата%20последнего%20внесения%20изменений>)
 - - -
-![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-CG%20Team-white?labelColor=important> "Правообладатель")
+![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-CG%20Team-white?style=for-the-badge&labelColor=important> "Правообладатель")
